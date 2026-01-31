@@ -1,7 +1,3 @@
-# bank-management-system-cpp
-Simple Bank Management using basic OOP in c++
-
-
 # Bank Management System (C++)
 A simple console-based bank management system built using basic Object-Oriented Programming concepts in C++.
 
